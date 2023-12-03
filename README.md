@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dilip Khapekar</h1>
 <h3 align="center">A passionate software developer with 4+ experience</h3>
 
-<img align="right" alt="programmer" width="400" src="https://github.com/abhishekkhapekar/abhishekkhapekar/assets/65410471/13653b67-19f9-4312-bd32-eae0a059b173">
+<img align="right" alt="programmer" width="400" src="![image](https://github.com/abhishekkhapekar/abhishekkhapekar/assets/65410471/39cd7dcb-85bb-41e9-a466-0333422931c6)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkhapekar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhapekar" /> </p>
 
