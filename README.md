@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Dilip Khapekar</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Dilip Khapeka</h1>
 <h3 align="center">A passionate software developer with 4+ experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkhapekar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhapekar" /> </p>
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/abhishekkhapekar64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekkhapekar64" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhis64_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhis64_123" height="30" width="40" /></a>
 </p>
 
