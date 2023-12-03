@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dilip Khapekar</h1>
 <h3 align="center">A passionate software developer with 4+ experience</h3>
 
-<img align="right" alt="programmer" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0IHPFlXHq-eyxikTPxWJcn&ust=1701684229245000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODA8PWB84IDFQAAAAAdAAAAABAw">
+<img align="right" alt="programmer" width="400" src="https://github.com/abhishekkhapekar/abhishekkhapekar/assets/65410471/13653b67-19f9-4312-bd32-eae0a059b173">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkhapekar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhapekar" /> </p>
 
